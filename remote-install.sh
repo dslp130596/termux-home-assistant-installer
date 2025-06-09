@@ -21,7 +21,7 @@ cleanup() {
 
 setup_colors
 
-msg "$ORANGE This will install Home Assistant Core 2023.4.4 in your $HOME/hass directory."
+msg "$ORANGE This will install Home Assistant Core 2023.9 in your $HOME/hass directory."
 msg "$NOFORMAT Please CTRL+C now to abort, otherwise waiting 5 seconds and installing..."
 
 sleep 1
